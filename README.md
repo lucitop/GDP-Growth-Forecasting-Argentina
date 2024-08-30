@@ -11,6 +11,7 @@ The repository makes sure my work will be well organized and easily accessible.
 
 ## Data
 The data used by all the models is stored in the csv "argentina_macro_data.csv" and the cleaning process (interpolation, DataFrames, etc.) can be seen in the "01_data_preprocessing.ipynb" notebook.
+The visualization and first analysis of the data can be seen in the "02_data_analysis_and_visualization.ipynb" notebook.
 
 The data used for this project includes:
 - GDP (constant 2015 US$) [Billions]
